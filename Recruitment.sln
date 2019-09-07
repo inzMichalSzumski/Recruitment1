@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{1E027F55-03F2-4470-9866-C9AB213A6A93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Array", "Reverse Array\Reverse Array.csproj", "{4A80E1A8-D330-4724-BB85-B06224E97EB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Permutation", "Permutation\Permutation.csproj", "{9A6BA5BB-5110-4A8C-840E-2515E9F773D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Existing powers of 2", "Existing powers of 2\Existing powers of 2.csproj", "{6EC06CBF-526D-4878-B75B-A3940C986B46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finding primes", "Finding primes\Finding primes.csproj", "{65DFAE56-AAB3-4E1E-82D6-BA0A3AA72978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common Digit", "Common Digit\Common Digit.csproj", "{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E027F55-03F2-4470-9866-C9AB213A6A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E027F55-03F2-4470-9866-C9AB213A6A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E027F55-03F2-4470-9866-C9AB213A6A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E027F55-03F2-4470-9866-C9AB213A6A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A80E1A8-D330-4724-BB85-B06224E97EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A80E1A8-D330-4724-BB85-B06224E97EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A80E1A8-D330-4724-BB85-B06224E97EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A80E1A8-D330-4724-BB85-B06224E97EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6BA5BB-5110-4A8C-840E-2515E9F773D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6BA5BB-5110-4A8C-840E-2515E9F773D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6BA5BB-5110-4A8C-840E-2515E9F773D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6BA5BB-5110-4A8C-840E-2515E9F773D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC06CBF-526D-4878-B75B-A3940C986B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC06CBF-526D-4878-B75B-A3940C986B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC06CBF-526D-4878-B75B-A3940C986B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC06CBF-526D-4878-B75B-A3940C986B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DFAE56-AAB3-4E1E-82D6-BA0A3AA72978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DFAE56-AAB3-4E1E-82D6-BA0A3AA72978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DFAE56-AAB3-4E1E-82D6-BA0A3AA72978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DFAE56-AAB3-4E1E-82D6-BA0A3AA72978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF28FD00-833A-4C56-91FB-2F5139C6123A}
+	EndGlobalSection
+EndGlobal
