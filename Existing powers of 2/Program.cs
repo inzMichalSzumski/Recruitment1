@@ -41,21 +41,7 @@ namespace Existing_powers_of_2
         static List<int> prepareDecompositionList(List<int> integers)
         {
             var results = new List<int>();
-            var max = integers.Max();
-            var listOfPowersOf2 = new List<int>();
-            var iterator = 0;
-            while (true)
-            {
-                var currentPower = (int)Math.Pow(Convert.ToDouble(2), Convert.ToDouble(iterator));
-
-                if(currentPower > max)
-                {
-                    break;
-                }
-
-                listOfPowersOf2.Add(currentPower);
-                iterator++;
-            }
+            List<int> listOfPowersOf2 = GenerateListOfPowers(integers);
 
             foreach (var item in integers)
             {
@@ -64,6 +50,27 @@ namespace Existing_powers_of_2
             results = results.Distinct().ToList();
             results.Sort();
             return results;
+        }
+
+        private static List<int> GenerateListOfPowers(List<int> integers)
+        {
+            var max = integers.Max();
+            var listOfPowersOf2 = new List<int>();
+            var iterator = 0;
+            while (true)
+            {
+                var currentPower = (int)Math.Pow(Convert.ToDouble(2), Convert.ToDouble(iterator));
+
+                if (currentPower > max)
+                {
+                    break;
+                }
+
+                listOfPowersOf2.Add(currentPower);
+                iterator++;
+            }
+
+            return listOfPowersOf2;
         }
 
         static List<int> decomposition(int number, List<int> powers)

@@ -1,0 +1,10 @@
+C:\Users\szuma\source\repos\Recruitment\Digit Sum\bin\Debug\netcoreapp2.2\Digit Sum.deps.json
+C:\Users\szuma\source\repos\Recruitment\Digit Sum\bin\Debug\netcoreapp2.2\Digit Sum.runtimeconfig.json
+C:\Users\szuma\source\repos\Recruitment\Digit Sum\bin\Debug\netcoreapp2.2\Digit Sum.runtimeconfig.dev.json
+C:\Users\szuma\source\repos\Recruitment\Digit Sum\bin\Debug\netcoreapp2.2\Digit Sum.dll
+C:\Users\szuma\source\repos\Recruitment\Digit Sum\bin\Debug\netcoreapp2.2\Digit Sum.pdb
+C:\Users\szuma\source\repos\Recruitment\Digit Sum\obj\Debug\netcoreapp2.2\Digit Sum.csproj.CoreCompileInputs.cache
+C:\Users\szuma\source\repos\Recruitment\Digit Sum\obj\Debug\netcoreapp2.2\Digit Sum.AssemblyInfoInputs.cache
+C:\Users\szuma\source\repos\Recruitment\Digit Sum\obj\Debug\netcoreapp2.2\Digit Sum.AssemblyInfo.cs
+C:\Users\szuma\source\repos\Recruitment\Digit Sum\obj\Debug\netcoreapp2.2\Digit Sum.dll
+C:\Users\szuma\source\repos\Recruitment\Digit Sum\obj\Debug\netcoreapp2.2\Digit Sum.pdb

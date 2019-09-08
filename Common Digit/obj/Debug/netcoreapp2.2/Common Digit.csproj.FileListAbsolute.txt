@@ -1,0 +1,11 @@
+C:\Users\szuma\source\repos\Recruitment\Common Digit\bin\Debug\netcoreapp2.2\Common Digit.deps.json
+C:\Users\szuma\source\repos\Recruitment\Common Digit\bin\Debug\netcoreapp2.2\Common Digit.runtimeconfig.json
+C:\Users\szuma\source\repos\Recruitment\Common Digit\bin\Debug\netcoreapp2.2\Common Digit.runtimeconfig.dev.json
+C:\Users\szuma\source\repos\Recruitment\Common Digit\bin\Debug\netcoreapp2.2\Common Digit.dll
+C:\Users\szuma\source\repos\Recruitment\Common Digit\bin\Debug\netcoreapp2.2\Common Digit.pdb
+C:\Users\szuma\source\repos\Recruitment\Common Digit\obj\Debug\netcoreapp2.2\Common Digit.csproj.CoreCompileInputs.cache
+C:\Users\szuma\source\repos\Recruitment\Common Digit\obj\Debug\netcoreapp2.2\Common Digit.AssemblyInfoInputs.cache
+C:\Users\szuma\source\repos\Recruitment\Common Digit\obj\Debug\netcoreapp2.2\Common Digit.AssemblyInfo.cs
+C:\Users\szuma\source\repos\Recruitment\Common Digit\obj\Debug\netcoreapp2.2\Common Digit.dll
+C:\Users\szuma\source\repos\Recruitment\Common Digit\obj\Debug\netcoreapp2.2\Common Digit.pdb
+C:\Users\szuma\source\repos\Recruitment\Common Digit\obj\Debug\netcoreapp2.2\Common Digit.csprojAssemblyReference.cache

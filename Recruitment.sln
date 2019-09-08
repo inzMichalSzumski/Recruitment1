@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Existing powers of 2", "Exi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finding primes", "Finding primes\Finding primes.csproj", "{65DFAE56-AAB3-4E1E-82D6-BA0A3AA72978}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common Digit", "Common Digit\Common Digit.csproj", "{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common Digit", "Common Digit\Common Digit.csproj", "{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digit Sum", "Digit Sum\Digit Sum.csproj", "{DFBAB018-0EC0-4156-B773-1A761E59B7DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBAB018-0EC0-4156-B773-1A761E59B7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBAB018-0EC0-4156-B773-1A761E59B7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBAB018-0EC0-4156-B773-1A761E59B7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBAB018-0EC0-4156-B773-1A761E59B7DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

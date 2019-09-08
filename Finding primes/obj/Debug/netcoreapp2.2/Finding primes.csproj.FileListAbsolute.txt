@@ -1,0 +1,11 @@
+C:\Users\szuma\source\repos\Recruitment\Finding primes\bin\Debug\netcoreapp2.2\Finding primes.deps.json
+C:\Users\szuma\source\repos\Recruitment\Finding primes\bin\Debug\netcoreapp2.2\Finding primes.runtimeconfig.json
+C:\Users\szuma\source\repos\Recruitment\Finding primes\bin\Debug\netcoreapp2.2\Finding primes.runtimeconfig.dev.json
+C:\Users\szuma\source\repos\Recruitment\Finding primes\bin\Debug\netcoreapp2.2\Finding primes.dll
+C:\Users\szuma\source\repos\Recruitment\Finding primes\bin\Debug\netcoreapp2.2\Finding primes.pdb
+C:\Users\szuma\source\repos\Recruitment\Finding primes\obj\Debug\netcoreapp2.2\Finding primes.csprojAssemblyReference.cache
+C:\Users\szuma\source\repos\Recruitment\Finding primes\obj\Debug\netcoreapp2.2\Finding primes.csproj.CoreCompileInputs.cache
+C:\Users\szuma\source\repos\Recruitment\Finding primes\obj\Debug\netcoreapp2.2\Finding primes.AssemblyInfoInputs.cache
+C:\Users\szuma\source\repos\Recruitment\Finding primes\obj\Debug\netcoreapp2.2\Finding primes.AssemblyInfo.cs
+C:\Users\szuma\source\repos\Recruitment\Finding primes\obj\Debug\netcoreapp2.2\Finding primes.dll
+C:\Users\szuma\source\repos\Recruitment\Finding primes\obj\Debug\netcoreapp2.2\Finding primes.pdb
