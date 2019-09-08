@@ -29,10 +29,21 @@ namespace Existing_powers_of_2
                 Console.WriteLine();
                 Console.WriteLine("Result: ");
                 Console.WriteLine();
-                foreach(var item in prepareDecompositionList(integersList))
+
+                var decompositionItems = prepareDecompositionList(integersList);
+
+                if (decompositionItems.Count > 0)
                 {
-                    Console.Write(item + ", ");
+                    foreach (var item in prepareDecompositionList(integersList))
+                    {
+                        Console.Write(item + ", ");
+                    }
                 }
+                else
+                {
+                    Console.Write("NA");
+                }
+
                 Console.WriteLine();
                 Console.WriteLine("Type non integer value to exit the program.");
             }
