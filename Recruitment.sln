@@ -19,12 +19,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digit Sum", "Digit Sum\Digi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Optional Power", "Optional Power", "{38165A7C-EAD8-4E63-9171-7A0AB3647F7A}"
 	ProjectSection(SolutionItems) = preProject
-		Script1.js = Script1.js
+		Optional Power.js = Optional Power.js
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fix age", "Fix age", "{9B4C0634-CC0C-45EC-AB4C-89DD43B3B4C6}"
 	ProjectSection(SolutionItems) = preProject
-		Script2.js = Script2.js
+		Fix age.js = Fix age.js
 	EndProjectSection
 EndProject
 Global
