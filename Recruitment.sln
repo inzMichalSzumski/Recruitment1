@@ -15,7 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finding primes", "Finding p
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common Digit", "Common Digit\Common Digit.csproj", "{0ECBCCF0-F0CE-4F8A-A5F9-C2F3B4CBD286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digit Sum", "Digit Sum\Digit Sum.csproj", "{DFBAB018-0EC0-4156-B773-1A761E59B7DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Digit Sum", "Digit Sum\Digit Sum.csproj", "{DFBAB018-0EC0-4156-B773-1A761E59B7DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Optional Power", "Optional Power", "{38165A7C-EAD8-4E63-9171-7A0AB3647F7A}"
+	ProjectSection(SolutionItems) = preProject
+		Script1.js = Script1.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fix age", "Fix age", "{9B4C0634-CC0C-45EC-AB4C-89DD43B3B4C6}"
+	ProjectSection(SolutionItems) = preProject
+		Script2.js = Script2.js
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
